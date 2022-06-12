@@ -1,5 +1,6 @@
-# Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
-
+### EX NO : 01
+### DATE  : 
+# <p align="center"> To create a HelloWorld Activity using all lifecycles methods to display messages </p>
 
 ## AIM:
 
@@ -119,9 +120,24 @@ android.com/apk/res/android"
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
 ## OUTPUT
 ![WhatsApp Image 2022-04-26 at 9 21 51 PM (2)](https://user-images.githubusercontent.com/75235455/168122477-135e6575-e705-434e-ac56-f1b5400a68c8.jpeg)
+
+</br>
+
 ![WhatsApp Image 2022-04-26 at 9 21 51 PM (3)](https://user-images.githubusercontent.com/75235455/168122466-fe358a7f-5d44-482e-aa59-15739d88702f.jpeg)
+
+</br>
+
 ![WhatsApp Image 2022-04-26 at 9 21 51 PM (1)](https://user-images.githubusercontent.com/75235455/168122482-974878e9-0ee8-434c-b44a-e9967ee1cc89.jpeg)
 ![WhatsApp Image 2022-04-26 at 9 21 51 PM](https://user-images.githubusercontent.com/75235455/168122486-820a4b0c-d9ee-42d7-ad18-884ec40297cf.jpeg)
 ![WhatsApp Image 2022-04-26 at 9 23 55 PM](https://user-images.githubusercontent.com/75235455/168122487-289aa6de-555c-4c46-9d06-5d57e7a36078.jpeg)
